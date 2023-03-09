@@ -29,38 +29,46 @@ These datasets will help in determining what sort of movie for the studio to inv
 First analysis  
 I grouped the data by genres and calculate the total domestic gross, foreign gross and world wide gross to find out the genres that brings in alot of profit.  
 
-![Alt text](./genresbygross.png)
+![Alt text](./genresbygross.png)  
+Action,Adventure,Sci-Fi have the top total domestic gross and worldwide gross.
+Adventure, Animation, and Comedy genre have the top total foreign gross.  
 
                  
-Second analysis 
+Second analysis  
 I created a histogram of movie runtimes using the hist() method and set the number of bins to 30, which will create 30 evenly-spaced bins for the range of values in the runtime minutes column.
 The histogram of movie runtimes shows the frequency distribution of movies across different runtime intervals. 
 This plot can help you identify if there are any common runtime intervals for successful movies, or if there is a trend toward shorter or longer movies. 
 
 
 ![Alt text](./movieruntime.png)  
+Acoording the histogram above the popular trend of runtime minutes is between 100 and 110 minutes.  
 
 Third analysis  
-
 I found the movie genres that costs least to produce by grouping data by genres and calculate total production budget to find the least production cost.  
 
 ![Alt text](./leastcost.png)  
 
-Fourth analysis  
+The genres with least production cost are Adventure,Drama,Mystery.     
 
-I analysed the data and found the most successfull movie of all time and further analysed its characteristics.  
+Fourth analysis  
+I analysed the data and found the most successfull movie of all time(Avengers: Infinity War) and further analysed its characteristics.    
 
 ![Alt text](./topmovie.png)  
-
+According the above visualization the genres of the most successful movie is Action, Adventure and Sci-fi and the runtime minutes is 149.  
 
 # CONCLUSION  
+
 In conclusion from the analysis genres is the main factor that should be considered when deciding what type of movIe to produce.  
-FINDINGS   
-From above the analysis the ideal genres to invest in depend on the target audience as I have elaborated by the visualization above.    
-The genres I highly recommend Microsoft to invest in are Action,Adventure,Sci-Fi since they have the top total domestic gross and worldwide gross.   
+FINDINGS       
+From above the analysis the ideal genres to invest in depend on the target audience as I have elaborated by the visualization above.  
 
-In consideration of the production cost, the genres with the least production cost are Adventure,Drama,Mystery.Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.  
+The genres I highly recommend Microsoft to invest in are Action,Adventure,Sci-Fi since they have the top total domestic gross and worldwide gross.    
 
-The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This couls be a good start for the production of the first Microsoft movie.  
+If the target audience of the movie to be created is the international market excluding the domestic market, Microsoft should invest in Adventure, Animation, and Comedy genre since it brings in the highest Foreign gross profit.             
 
-Microsoft can also consider adapting the trend of the most popular movie of all time which have a runtime of 149 minutes and genres of Action, Adventure, and Sci-Fi. This will ensure the popularity of the movie
+In consideration of the production cost, the genres with the least production cost are Adventure,Drama,Mystery.    
+Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.      
+
+The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This couls be a good start for the production of the first Microsoft movie.      
+
+Microsoft can also consider adapting the trend of the most popular movie of all time which have a runtime of 149 minutes and genres of Action, Adventure, and Sci-Fi. This will ensure the popularity of the movie.  
