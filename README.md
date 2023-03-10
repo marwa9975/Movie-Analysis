@@ -41,7 +41,7 @@ This plot can help you identify if there are any common runtime intervals for su
 
 
 ![Alt text](./movieruntime.png)  
-Acoording the histogram above the popular trend of runtime minutes is between 100 and 110 minutes.  
+From the histogram above the popular trend of runtime minutes is between 100 and 110 minutes.  
 
 Third analysis  
 I found the movie genres that costs least to produce by grouping data by genres and calculate total production budget to find the least production cost.  
@@ -60,15 +60,15 @@ According the above visualization the genres of the most successful movie is Act
 
 In conclusion from the analysis genres is the main factor that should be considered when deciding what type of movIe to produce.  
 FINDINGS       
-From above the analysis the ideal genres to invest in depend on the target audience as I have elaborated by the visualization above.  
+From above the analysis the ideal genres to invest in depend on the target audience as I have elaborated by the visualizations.  
 
-The genres I highly recommend Microsoft to invest in are Action,Adventure,Sci-Fi since they have the top total domestic gross and worldwide gross.    
+The genres I highly recommend Microsoft to invest in are Action,Adventure,Sci-Fi since they have the top total domestic gross and worldwide gross and wil ensure sucess of the movies to be produced  both locally and globally.    
 
 If the target audience of the movie to be created is the international market excluding the domestic market, Microsoft should invest in Adventure, Animation, and Comedy genre since it brings in the highest Foreign gross profit.             
 
 In consideration of the production cost, the genres with the least production cost are Adventure,Drama,Mystery.    
-Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.      
+Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.This might help microsoft to test how a movie being produced by them is being perceived by the general public without incurring much loss.     
 
-The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This couls be a good start for the production of the first Microsoft movie.      
+The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This couls be a good start for the production of the first Microsoft movie and will be in accordance with what people expect the length of  movie to be.      
 
-Microsoft can also consider adapting the trend of the most popular movie of all time which have a runtime of 149 minutes and genres of Action, Adventure, and Sci-Fi. This will ensure the popularity of the movie.  
+Microsoft can also consider adapting the trend of the most popular movie of all time which have a runtime of 149 minutes and genres of Action, Adventure, and Sci-Fi. This will ensure the popularity of the movie and its success.  
