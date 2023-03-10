@@ -14,7 +14,7 @@ Microsoft is seeking to create a new movie studio and wants to understand what t
 The business problem is that Microsoft wants to create a new movie studio but doesn't have any knowledge or experience in the movie industry. They need to determine what types of films are currently successful at the box office in order to make informed decisions about what types of films to produce. By understanding the current trends and patterns in the film industry, Microsoft can increase the chances of producing successful and profitable films.
 # Data Understanding and Analysis
 
-The movie dataset that i will be working with are from:
+The movie dataset that i  worked with are from:
 [Box Office Mojo] (https://www.boxofficemojo.com/),
 [IMDB] (https://www.imdb.com/), 
 [TheMovieDB] (https://www.themoviedb.org/),
