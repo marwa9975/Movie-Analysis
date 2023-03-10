@@ -67,7 +67,7 @@ The genres I highly recommend Microsoft to invest in are Action,Adventure,Sci-Fi
 If the target audience of the movie to be created is the international market excluding the domestic market, Microsoft should invest in Adventure, Animation, and Comedy genre since it brings in the highest Foreign gross profit.             
 
 In consideration of the production cost, the genres with the least production cost are Adventure,Drama,Mystery.    
-Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.This might help microsoft to test how a movie being produced by them is being perceived by the general public without incurring much loss.     
+Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.This might help microsoft to test how a movie being produced by them is being perceived by the general public without incurring much loss.       
 
 The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This couls be a good start for the production of the first Microsoft movie and will be in accordance with what people expect the length of  movie to be.      
 
