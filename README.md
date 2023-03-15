@@ -69,6 +69,6 @@ If the target audience of the movie to be created is the international market ex
 In consideration of the production cost, the genres with the least production cost are Adventure,Drama,Mystery.    
 Microsoft should conider this option if the main goal is to produce a movie with the least cost incurred but this will not quarantee the success of the movie.This might help microsoft to test how a movie being produced by them is being perceived by the general public without incurring much loss.       
 
-The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This couls be a good start for the production of the first Microsoft movie and will be in accordance with what people expect the length of  movie to be.      
+The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This could be a good start for the production of the first Microsoft movie and will be in accordance with what people expect the length of  movie to be.      
 
 Microsoft can also consider adapting the trend of the most popular movie of all time which have a runtime of 149 minutes and genres of Action, Adventure, and Sci-Fi. This will ensure the popularity of the movie and its success.  
