@@ -15,10 +15,10 @@ The business problem is that Microsoft wants to create a new movie studio but do
 # Data Understanding and Analysis
 
 The movie dataset that i  worked with are from:
-[Box Office Mojo] (https://www.boxofficemojo.com/),
-[IMDB] (https://www.imdb.com/), 
-[TheMovieDB] (https://www.themoviedb.org/),
-[The Numbers] (https://www.the-numbers.com/)
+[Box Office Mojo](https://www.boxofficemojo.com/),
+[IMDB](https://www.imdb.com/), 
+[TheMovieDB](https://www.themoviedb.org/),
+[The Numbers](https://www.the-numbers.com/)
 
 The data sources are popular online based websites that most people use to refer to when looking up what movies to watch.
 
