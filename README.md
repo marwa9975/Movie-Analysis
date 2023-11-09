@@ -1,4 +1,4 @@
-# dsc-phase-1-project
+# Movie Analysis
 <p align="center">
   <img src="./image.jpeg" alt="movie">
 </p>
