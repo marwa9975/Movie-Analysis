@@ -25,7 +25,7 @@ The data sources are popular online based websites that most people use to refer
 These datasets contain data about the movies that have aired over the years , the trend of popularity , the overall gross and genres, etc.
 These datasets will help in determining what sort of movie for the studio to invest in.
 
-# DATA ANALYSIS
+# Data Analysis
 First analysis  
 I grouped the data by genres and calculate the total domestic gross, foreign gross and world wide gross to find out the genres that brings in alot of profit.  
 
@@ -56,7 +56,7 @@ I analysed the data and found the most successfull movie of all time(Avengers: I
 ![Alt text](./topmovie.png)  
 According the above visualization the genres of the most successful movie is Action, Adventure and Sci-fi and the runtime minutes is 149.  
 
-# CONCLUSION  
+# Conclusion 
 
 In conclusion from the analysis genres is the main factor that should be considered when deciding what type of movIe to produce.  
 FINDINGS       
@@ -72,3 +72,9 @@ Microsoft should conider this option if the main goal is to produce a movie with
 The ideal runtime according to the popular trend foLlowed by most movies in  production is between 100 and 110 minutes.This could be a good start for the production of the first Microsoft movie and will be in accordance with what people expect the length of  movie to be.      
 
 Microsoft can also consider adapting the trend of the most popular movie of all time which have a runtime of 149 minutes and genres of Action, Adventure, and Sci-Fi. This will ensure the popularity of the movie and its success.  
+
+## Author
+- Marwa Osman
+- marwaosman9975@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
+- [GitHub](https://github.com/marwa9975)
